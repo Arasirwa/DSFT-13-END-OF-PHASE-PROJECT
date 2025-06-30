@@ -106,8 +106,6 @@ pip install pandas numpy matplotlib seaborn plotly
 ```
 
 
-```
-
 ### 4. 📁 Load the Dataset
 
 Ensure the dataset is organized in the following folder structure:
